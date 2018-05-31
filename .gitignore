@@ -3,4 +3,5 @@
 rails
 *.box
 *.idea/
-
+projects/
+.vagrant/
