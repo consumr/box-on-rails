@@ -5,3 +5,4 @@ rails
 *.idea/
 projects/
 .vagrant/
+!/.vagrant/machines/default/virtualbox/id
