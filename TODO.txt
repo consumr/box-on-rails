@@ -1,0 +1,11 @@
+fix .vagrant file issues... vs. Master
+extend install script to include ruby version(s)...
+Eventually Fork box-on-rails again in order to not ignore the project, but to write a scrpit tp post-vagrant up, moves over to /var/www and git clones the project. 
+	(Can one fork a fork? Can one rename a fork to a new project?) 
+Update readme (after merge w/ master)
+?
+??
+id: b9871acc-4883-4190-9870-5313b5829625
+	(just keep that around)
+
+Merge dreamboxy branch into Master
